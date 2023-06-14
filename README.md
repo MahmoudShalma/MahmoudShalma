@@ -1,6 +1,9 @@
 [![Header](https://github.com/mahmoudEltokheyProjects/mahmoudEltokheyProjects/blob/main/programming.png)](https://github.com/mahmoudEltokheyProjects/mahmoudEltokheyProjects/blob/main/programming.png)
 <h1 align="center">Hi 👋, I'm Mahmoud Shalma</h1>
 <h3 align="center">Software Engineer, PHP Backend Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MahmoudShalma&label=Profile%20views&color=0e75b6&style=flat" alt="MahmoudShalma" /> </p>
+
 <hr/>
 
 - 🔭 I’m currently working on [EEC](https://eecegypt.com/)
