@@ -6,7 +6,7 @@
 
 <hr/>
 
-- 🔭 I’m currently working on [EEC](https://eecegypt.com/)
+- 🔭 I’m currently working on [LINRCO-Egypt](http://linrco-eg.com/)
 
 - 🌱 I’m currently learning **CleanArchitecture, System Design.**
 
