@@ -33,18 +33,6 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<hr/>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudShalma&show_icons=true&layout=compact&theme=github_dark" alt="MahmoudShalma" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahmoudShalma&show_icons=true&theme=github_dark" alt="MahmoudShalma" />
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahmoudShalma/MahmoudShalma/output/pacman-contribution-graph-dark.svg">
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahmoudShalma/MahmoudShalma/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 ---
